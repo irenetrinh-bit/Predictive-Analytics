@@ -11,7 +11,7 @@ Predicts the popularity level (Low / Medium / High) of Mashable articles using a
 ```
 ├── README.md                     ← This file
 ├── requirements.txt              ← Python dependencies with versions
-├── notebook.ipynb                ← Main Jupyter notebook (all 6 sections)
+├── predictive_notebook.ipynb                ← Main Jupyter notebook (all 6 sections)
 ├── data/
 │   └── OnlineNewsPopularity.csv  ← Dataset (download instructions below)
 ```
