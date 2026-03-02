@@ -66,7 +66,3 @@ Run all cells sequentially. Expected runtime: ~15–20 minutes (mostly MLP train
 ## Citation
 
 Fernandes, K., Vinagre, P., Cortez, P., & Sernadela, P. (2015). Online News Popularity [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5NS3V
-        
-        
-        
-        .
