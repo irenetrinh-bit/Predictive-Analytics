@@ -22,7 +22,7 @@ Predicts the popularity level (Low / Medium / High) of Mashable articles using a
 
 ```bash
 git clone https://github.com/irenetrinh-bit/Predictive-Analytics.git
-cd online-news-popularity
+cd Predictive-Analytics
 ```
 
 ### 2. Install dependencies
