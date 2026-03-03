@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-Predicts the popularity level (Low / Medium / High) of Mashable articles using a PyTorch MLP trained on 58 pre-publication features. Final model achieves **macro F1 = 0.4883** and **accuracy = 50.25%** on the held-out test set (vs 33% random baseline).
+Predicts the popularity level (Low / Medium / High) of Mashable articles using a PyTorch MLP trained on 58 pre-publication features. Final model achieves **macro F1 = 0.4865** and **accuracy = 50.25%** on the held-out test set (vs 33% random baseline).
 
 ## Repository Structure
 
